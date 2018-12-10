@@ -1,0 +1,18 @@
+Start testing: Dec 04 11:39 CET
+----------------------------------------------------------
+1/1 Testing: CommonPthreadError
+1/1 Test: CommonPthreadError
+Command: "/usr/bin/perl" "/user/2/matterv/TP/SEPC/ensimag-video/tests/pthcocci.pl"
+Directory: /user/2/matterv/TP/SEPC/ensimag-video/build
+"CommonPthreadError" start time: Dec 04 11:39 CET
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.49 sec
+----------------------------------------------------------
+Test Passed.
+"CommonPthreadError" end time: Dec 04 11:39 CET
+"CommonPthreadError" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 04 11:39 CET
